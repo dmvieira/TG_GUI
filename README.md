@@ -1,5 +1,11 @@
 TG_GUI
 ======
+
+Randomly changes GNOME desktop background. Here is a video with [RandomCopy](https://github.com/dmvieira/randomcopy) and TG_GUI interaction:
+
+[![RandomCopy and TG_GUI](https://img.youtube.com/vi/FQIJZuF_7mU/0.jpg)](https://www.youtube.com/watch?v=g7FaK7gdK_I)
+
+
 ## Requirements 
  
 Needs wxpython. If you want make deb have more requirements. Runs on Gnome derivatives

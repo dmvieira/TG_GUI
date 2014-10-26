@@ -3,7 +3,7 @@ TG_GUI
 
 Randomly changes GNOME desktop background. Here is a video with [RandomCopy](https://github.com/dmvieira/randomcopy) and TG_GUI interaction:
 
-[![RandomCopy and TG_GUI](https://img.youtube.com/vi/FQIJZuF_7mU/0.jpg)](https://www.youtube.com/watch?v=g7FaK7gdK_I)
+[![RandomCopy and TG_GUI](https://img.youtube.com/vi/FQIJZuF_7mU/0.jpg)](https://www.youtube.com/watch?v=FQIJZuF_7mU)
 
 
 ## Requirements 

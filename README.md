@@ -8,7 +8,7 @@ Randomly changes GNOME desktop background. Here is a video with [RandomCopy](htt
 
 ## Requirements 
  
-Needs wxpython. If you want make deb have more requirements. Runs on Gnome derivatives
+Needs wxpython. If you want to make deb need more requirements. Runs on Gnome derivatives
  
 ## Links 
  
